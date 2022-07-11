@@ -7,4 +7,5 @@
 <!---
 Murat0448/Murat0448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> Hello, I am Murat from METU. I am interested in Python and JS. I am currently learning Python.
+---> Hello, I am Murat from METU. I am working with Python and JS. 
+
